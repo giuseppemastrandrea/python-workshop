@@ -62,5 +62,3 @@ La terza e ultima parte esplora il panorama dei framework per lo sviluppo web in
     
 -   Cenni su TDD in Python
     
-
-## Survey finale di gradimento:
