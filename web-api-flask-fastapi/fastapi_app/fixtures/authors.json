@@ -1,0 +1,27 @@
+[
+    {
+        "first_name": "Stephen",
+        "last_name": "King",
+        "birthdate": "1947-09-21"
+    },
+    {
+        "first_name": "J.K.",
+        "last_name": "Rowling",
+        "birthdate": "1965-07-31"
+    },
+    {
+        "first_name": "George R.R.",
+        "last_name": "Martin",
+        "birthdate": "1948-09-20"
+    },
+    {
+        "first_name": "Agatha",
+        "last_name": "Christie",
+        "birthdate": "1890-09-15"
+    },
+    {
+        "first_name": "Jane",
+        "last_name": "Austen",
+        "birthdate": "1775-12-16"
+    }
+]
