@@ -61,4 +61,11 @@ La terza e ultima parte esplora il panorama dei framework per lo sviluppo web in
 -   Wheel Packaging
     
 -   Cenni su TDD in Python
-    
+
+## Feedback form
+
+Per aiutarci a migliorare, vi chiediamo di dedicare pochi minuti alla compilazione del questionario di feedback.  
+
+👉 **Compila il form qui**: [forms.gle/KuUjbVJMjMfxApLJ7](https://forms.gle/KuUjbVJMjMfxApLJ7)  
+
+Il vostro contributo è prezioso per rendere i prossimi corsi ancora migliori. Grazie! 🙌  
