@@ -1,0 +1,9 @@
+<h1>{{ author.first_name }} {{ author.last_name }}</h1>
+<p><strong>Data di nascita:</strong> {{ author.birthdate }}</p>
+<p><strong>Libri:</strong></p>
+<ul>
+    {% for book in author.books.all %}
+    <li><a href="{% url 'book-detail' book.pk %}">{{ book.title }}</a></li>
+    {% endfor %}
+</ul>
+<a href="{% url 'author-list' %}">Torna all'elenco</a>

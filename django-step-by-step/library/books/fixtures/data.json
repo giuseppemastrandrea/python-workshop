@@ -1,0 +1,70 @@
+{
+    "books": [
+        {
+            "title": "Il nome della rosa",
+            "published_date": "1980-01-01",
+            "authors": [
+                {
+                    "first_name": "Umberto",
+                    "last_name": "Eco",
+                    "birthdate": "1932-01-05"
+                }
+            ]
+        },
+        {
+            "title": "1984",
+            "published_date": "1949-06-08",
+            "authors": [
+                {
+                    "first_name": "George",
+                    "last_name": "Orwell",
+                    "birthdate": "1903-06-25"
+                }
+            ]
+        },
+        {
+            "title": "Il Signore degli Anelli",
+            "published_date": "1954-07-29",
+            "authors": [
+                {
+                    "first_name": "J.R.R.",
+                    "last_name": "Tolkien",
+                    "birthdate": "1892-01-03"
+                }
+            ]
+        },
+        {
+            "title": "Orgoglio e Pregiudizio",
+            "published_date": "1813-01-28",
+            "authors": [
+                {
+                    "first_name": "Jane",
+                    "last_name": "Austen",
+                    "birthdate": "1775-12-16"
+                }
+            ]
+        },
+        {
+            "title": "Moby Dick",
+            "published_date": "1851-10-18",
+            "authors": [
+                {
+                    "first_name": "Herman",
+                    "last_name": "Melville",
+                    "birthdate": "1819-08-01"
+                }
+            ]
+        },
+        {
+            "title": "Guerra e Pace",
+            "published_date": "1869-01-01",
+            "authors": [
+                {
+                    "first_name": "Lev",
+                    "last_name": "Tolstoj",
+                    "birthdate": "1828-09-09"
+                }
+            ]
+        }
+    ]
+}

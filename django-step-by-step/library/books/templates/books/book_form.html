@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block title %}Aggiungi un Libro{% endblock %}
+
+{% block content %}
+<h1>Aggiungi un Nuovo Libro</h1>
+<form method="post">
+    {% csrf_token %}
+    <div class="mb-3">
+        {{ form.as_p }} <!-- Stampa il form con i campi -->
+    </div>
+    <button type="submit" class="btn btn-primary">Salva</button>
+    <a href="{% url 'book-list' %}" class="btn btn-secondary">Annulla</a>
+</form>
+{% endblock %}
